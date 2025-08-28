@@ -1,4 +1,4 @@
-# 🛡️ Network Detection & Response (NDR) Lab with Security Onion + pfSense
+# 🛡️ Flagship SOC Lab with AD + Security Onion + pfSense(Netgate 3100)
 
 ## 🎯 Objective
 Design and implement a **Network Detection & Response (NDR) lab** that mirrors real-world SOC environments by integrating pfSense and Security Onion. This project highlights expertise in building and configuring security infrastructure, forwarding and ingesting network logs, detecting adversarial activity with Suricata and Zeek, and performing analyst-level investigations in Kibana.
